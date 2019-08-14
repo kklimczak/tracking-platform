@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "trackingPlatform", "camelCase"],
+    "component-selector": [true, "element", "tracking-platform", "kebab-case"]
+  }
+}
